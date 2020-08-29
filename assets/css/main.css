@@ -742,7 +742,7 @@ main {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url(../../../assets/img/filter/pattern_dot.png) 0 0/6px;
+  background: url(https://lance70176.github.io/assets/img/filter/pattern_dot.png) 0 0/6px;
   background-color: rgba(0, 0, 0, 0.4);
 }
 
@@ -805,7 +805,7 @@ main {
   width: 70px;
   height: 76px;
   margin-left: -0.75vw;
-  background: url(../../../assets/img/footer/ph_5thlogo.png) no-repeat center/100%;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/footer/ph_5thlogo.png) no-repeat center/100%;
 }
 
 @media (min-width: 769px) {
@@ -955,7 +955,7 @@ main {
     margin-top: 10px;
     white-space: nowrap;
     overflow: hidden;
-    background: url(../../../assets/img/footer/ph_anxlogo.svg) no-repeat center/100%;
+    background: url(https://lance70176.github.io/5th-fate-go/assets/img/footer/ph_anxlogo.svg) no-repeat center/100%;
   }
 }
 
@@ -1015,11 +1015,11 @@ main {
 }
 
 .l-footer__sharelist__item.-twitter {
-  background: url(../../../assets/img/footer/ico_twitter.svg) no-repeat center/90%;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/footer/ico_twitter.svg) no-repeat center/90%;
 }
 
 .l-footer__sharelist__item.-line {
-  background: url(../../../assets/img/footer/ico_line.svg) no-repeat center/80%;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/footer/ico_line.svg) no-repeat center/80%;
   margin-right: 0;
 }
 
@@ -1939,7 +1939,7 @@ main {
 
 .archive__detail__ph {
   position: relative;
-  background: url(../../../assets/img/archive/ico_loader.gif) no-repeat center/120px;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/archive/ico_loader.gif) no-repeat center/120px;
   overflow: hidden;
   width: 100vw;
   height: 65.2vw;
@@ -1969,7 +1969,7 @@ main {
 .archive__detail__fullbtn {
   width: 40px;
   height: 40px;
-  background: url(../../../assets/img/archive/ico_fullsize.svg) no-repeat center/50%;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/archive/ico_fullsize.svg) no-repeat center/50%;
   background-color: #000;
   position: absolute;
   bottom: 0;
@@ -2223,7 +2223,7 @@ main {
 }
 
 .spr_pref {
-  background: url(../../../assets/img/archive/spr/spr_pref.png?v0720);
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/archive/spr/spr_pref.png?v0720);
   background-size: 109.2vw;
   background-color: #fff;
 }
@@ -2235,7 +2235,7 @@ main {
 }
 
 .spr_pref.-w {
-  background: url(../../../assets/img/archive/spr/spr_pref_w.png?v0720);
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/archive/spr/spr_pref_w.png?v0720);
   background-size: 420px;
 }
 
@@ -2434,7 +2434,7 @@ main {
 }
 
 .spr_servant {
-  background: url(../../../assets/img/archive/spr/spr_servant.png?v0720);
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/archive/spr/spr_servant.png?v0720);
   background-size: 109.2vw;
   background-color: #fff;
 }
@@ -2618,7 +2618,7 @@ main {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url(../../../assets/img/archive/ph_map.svg) no-repeat 0 0/100%;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/archive/ph_map.svg) no-repeat 0 0/100%;
 }
 
 @media (min-width: 769px) {
@@ -2705,7 +2705,7 @@ main {
   transition: all 0.3s ease;
   width: 100%;
   height: 100%;
-  background: url(../../../assets/img/archive/ico_loader.gif) no-repeat center/120px;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/archive/ico_loader.gif) no-repeat center/120px;
   background-color: #000;
   z-index: 3;
   overflow: auto;
@@ -3168,7 +3168,7 @@ main {
   content: '';
   width: 18px;
   height: 18px;
-  background: url(../../../assets/img/archive/ico_fullsize.svg) no-repeat center/55%;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/archive/ico_fullsize.svg) no-repeat center/55%;
   border: 1px solid #fff;
   position: absolute;
   top: 7px;
@@ -3284,7 +3284,7 @@ main {
   right: 0;
   width: 8.5vw;
   height: 8.5vw;
-  background: url(../../../assets/img/archive/ico_sound.svg) 0 0/100%;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/archive/ico_sound.svg) 0 0/100%;
   outline: none;
   cursor: pointer;
   border: none;
@@ -3349,7 +3349,7 @@ main {
   font-size: 0.75rem;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  background: url(../../../assets/img/layout/ico_i_w.svg) no-repeat center/100%;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/layout/ico_i_w.svg) no-repeat center/100%;
   background-size: 7.4px auto;
   width: 45px;
   height: 45px;
@@ -3373,7 +3373,7 @@ main {
     border: 4px solid;
   }
   .main__infobtn__date:hover {
-    background: url(../../../assets/img/layout/ico_i_b.svg) no-repeat center/100%, #fff;
+    background: url(https://lance70176.github.io/5th-fate-go/assets/img/layout/ico_i_b.svg) no-repeat center/100%, #fff;
     background-size: 7.4px auto;
     border: 4px solid #fff;
   }
@@ -3396,11 +3396,11 @@ main {
 }
 
 .modal_sharelist__item.-twitter {
-  background: url(../../../assets/img/footer/ico_twitter.svg) no-repeat center/90%;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/footer/ico_twitter.svg) no-repeat center/90%;
 }
 
 .modal_sharelist__item.-line {
-  background: url(../../../assets/img/footer/ico_line.svg) no-repeat center/80%;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/footer/ico_line.svg) no-repeat center/80%;
 }
 
 .modal_sharelist__item a {
@@ -3475,14 +3475,14 @@ main {
   position: absolute;
   top: 8px;
   left: 8px;
-  background: url(../../../assets/img/loader/ttl_main_nrw.svg) no-repeat 0 0/100%;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/loader/ttl_main_nrw.svg) no-repeat 0 0/100%;
   width: calc(100vw - 16px);
   height: 80vw;
 }
 
 @media (min-width: 769px) {
   .loader__ttl {
-    background: url(../../../assets/img/loader/ttl_main.svg) no-repeat 0 0/100%;
+    background: url(https://lance70176.github.io/5th-fate-go/assets/img/loader/ttl_main.svg) no-repeat 0 0/100%;
     width: 663px;
     height: 147px;
     -webkit-transform: translate(-50%, -50%);
@@ -3497,7 +3497,7 @@ main {
   position: absolute;
   left: 50%;
   bottom: 25px;
-  background: url(../../../assets/img/loader/ph_fgologo.png) no-repeat 0 0/100%;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/loader/ph_fgologo.png) no-repeat 0 0/100%;
   width: 150px;
   height: 68px;
   -webkit-transform: translate(-50%, 0);
@@ -3521,7 +3521,7 @@ main {
   position: absolute;
   top: 50%;
   left: 50%;
-  background: url(../../../assets/img/archive/ph_map.svg) no-repeat 0 0/100%;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/archive/ph_map.svg) no-repeat 0 0/100%;
   width: 72vw;
   height: 100vw;
   -webkit-transform: translate(-50%, -50%);
@@ -3589,7 +3589,7 @@ main {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url(../../../assets/img/loader/txt_state_0604.svg) no-repeat 0 0;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/loader/txt_state_0604.svg) no-repeat 0 0;
   background-size: 79.6vw 82.933vw;
   will-change: animation;
 }
@@ -4014,7 +4014,7 @@ main {
   width: calc(100vw - 10px);
   height: 25vw;
   margin: 5px;
-  background: url(../../../assets/img/layout/ttl_logo_nrw.svg) no-repeat 0 0/100%;
+  background: url(https://lance70176.github.io/5th-fate-go/assets/img/layout/ttl_logo_nrw.svg) no-repeat 0 0/100%;
 }
 
 @media (min-width: 769px) {
@@ -4025,7 +4025,7 @@ main {
     left: 20px;
     width: 664px;
     height: 64px;
-    background: url(../../../assets/img/layout/ttl_logo.svg) no-repeat 0 0/100%;
+    background: url(https://lance70176.github.io/5th-fate-go/assets/img/layout/ttl_logo.svg) no-repeat 0 0/100%;
   }
 }
 
